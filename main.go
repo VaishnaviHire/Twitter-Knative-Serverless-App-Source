@@ -5,6 +5,7 @@ import (
 	"context"
 	"flag"
 	"log"
+	"fmt"
 
 	"github.com/PratikMahajan/Twitter-Knative-Serverless-App-Source/config"
 	"github.com/knative/pkg/signals"
