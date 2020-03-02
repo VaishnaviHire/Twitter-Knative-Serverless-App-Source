@@ -56,3 +56,5 @@ Make sure you have `github webhooks` configured on `dockerhub`
 * _To change the default namespace and docker repository see `Makefile`_
 * In order to run the application properly, make sure to set `knative-eventing-injection=enabled` as a `label` on your `namespace`
 * `--sink` is taken as a commandline argument in the GoLang app
+
+This is a test code to check working of forked repo
